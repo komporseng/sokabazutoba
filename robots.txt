@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://sokabazutoba.netlify.app/sitemap.xml
